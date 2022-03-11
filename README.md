@@ -1,8 +1,10 @@
 📝 `NOTE` Paste this template at the top of your existing `README.md` file from part 1 of this assignment. (🚫 Remove this paragraph after after checking off completed user stories)
 
+# Project 3 - *Twitter*
+
 # Twitter - Part II
 
-This is a basic twitter app to view, compose, favorite, and retweet tweets.
+**Twitter(Version Two)** This is a basic twitter app to view, compose, favorite, and retweet tweets.
 
 Time spent: **X** hours spent in total
 
@@ -10,9 +12,9 @@ Time spent: **X** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] User can compose a tweet. (4pts)
-- [ ] User can favorite a tweet. (4pts)
-- [ ] User can retweet a tweet. (2pts)
+- [X] User can compose a tweet. (4pts)
+- [X] User can favorite a tweet. (4pts)
+- [X] User can retweet a tweet. (2pts)
 
 The following **bonus** features are implemented:
 
@@ -28,9 +30,9 @@ Here's a walkthrough of implemented user stories:
 
 <hr/>
 
-# Project 3 - *Twitter*
+# Twitter - Part I
 
-**Name of your app** is a basic twitter app to read your tweets.
+**Twitter(Version One)** is a basic twitter app to read your tweets.
 
 Time spent: **3** hours spent in total
 
